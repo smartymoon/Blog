@@ -12,6 +12,9 @@ tags: python
 4. [glob](https://www.jianshu.com/p/542e55b29324) 读取目录下的文件，可以使用通配符
 5. [os.path](https://www.jianshu.com/p/d77ef16a38c3) 目录操作，可以判断是否目录
 6. [threading](http://www.runoob.com/python/python-multithreading.html) 多线程，python 多线程是坑，可以用来做批量延时任务
+7. [requests](http://docs.python-requests.org/en/master/) 非常出名的网络请求工具，用法和 Axios 很像
+8. [re](http://www.runoob.com/python/python-reg-expressions.html) 正则，可匹配，可搜索
+9. [pyquery](https://www.jianshu.com/p/c07f7cd1b548) 类似Jquery的 Dom 选择器
 
 
 
